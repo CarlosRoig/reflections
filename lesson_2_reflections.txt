@@ -1,3 +1,5 @@
 now I am in lesson 2
 
 with staging area you can choose what to commit at a time
+
+You can separate the code into different files and commit only the important changes and files
